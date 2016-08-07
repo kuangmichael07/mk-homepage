@@ -1,0 +1,2 @@
+baseurl: /mk-homepage
+exclude: ['README.md']
